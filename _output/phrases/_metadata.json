@@ -1,0 +1,80 @@
+{
+    "option.slwBypassGroups.txt": {
+        "global_cache": false,
+        "version_id": 1000010,
+        "version_string": "1.0.0 Alpha",
+        "hash": "32298b7393853af7341e0acc194b4fae"
+    },
+    "option.slwEnabled.txt": {
+        "global_cache": false,
+        "version_id": 1000010,
+        "version_string": "1.0.0 Alpha",
+        "hash": "302d3f430d459eeb7b6c22e87771aff7"
+    },
+    "option.slwTrustedDomains.txt": {
+        "global_cache": false,
+        "version_id": 1000010,
+        "version_string": "1.0.0 Alpha",
+        "hash": "93fbeccd6a5cd1f86d8424e57e211ea0"
+    },
+    "option_explain.slwBypassGroups.txt": {
+        "global_cache": false,
+        "version_id": 1000010,
+        "version_string": "1.0.0 Alpha",
+        "hash": "05792430b6de3577ce1256bf63107f0a"
+    },
+    "option_explain.slwEnabled.txt": {
+        "global_cache": false,
+        "version_id": 1000010,
+        "version_string": "1.0.0 Alpha",
+        "hash": "1cb26b3ff9bea7c23879b7100228f059"
+    },
+    "option_explain.slwTrustedDomains.txt": {
+        "global_cache": false,
+        "version_id": 1000010,
+        "version_string": "1.0.0 Alpha",
+        "hash": "0d6026ad5f648ad428b9559733add6e9"
+    },
+    "sylphian_link_warning_continue.txt": {
+        "global_cache": false,
+        "version_id": 1000010,
+        "version_string": "1.0.0 Alpha",
+        "hash": "b91862ca0b7521738befb06f0cb75cf8"
+    },
+    "sylphian_link_warning_explain.txt": {
+        "global_cache": false,
+        "version_id": 1000010,
+        "version_string": "1.0.0 Alpha",
+        "hash": "e3511947644176e6ae79a4e68cad0f20"
+    },
+    "sylphian_link_warning_invalid_link.txt": {
+        "global_cache": false,
+        "version_id": 1000010,
+        "version_string": "1.0.0 Alpha",
+        "hash": "28c2c0300d9afd2c819f5a098bb7bc68"
+    },
+    "sylphian_link_warning_invalid_trusted_domain_x.txt": {
+        "global_cache": false,
+        "version_id": 1000010,
+        "version_string": "1.0.0 Alpha",
+        "hash": "c4d77f20a0b331e29618ffeb5325d099"
+    },
+    "sylphian_link_warning_leaving_x.txt": {
+        "global_cache": false,
+        "version_id": 1000010,
+        "version_string": "1.0.0 Alpha",
+        "hash": "f70bd1df743a580d625e2a77efa33d6c"
+    },
+    "sylphian_link_warning_link.txt": {
+        "global_cache": false,
+        "version_id": 1000010,
+        "version_string": "1.0.0 Alpha",
+        "hash": "59e2edd29fca96c240a6c50ad75d34d8"
+    },
+    "sylphian_link_warning_site.txt": {
+        "global_cache": false,
+        "version_id": 1000010,
+        "version_string": "1.0.0 Alpha",
+        "hash": "a7d6475ec8993b7224d6facc8cb0ead6"
+    }
+}

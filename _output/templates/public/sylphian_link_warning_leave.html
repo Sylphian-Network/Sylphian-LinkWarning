@@ -1,0 +1,38 @@
+<xf:title>{{ phrase('sylphian_link_warning_leaving_x', {'board': $xf.options.boardTitle}) }}</xf:title>
+<xf:head option="metaNoindex"><meta name="robots" content="noindex" /></xf:head>
+
+<div class="block">
+	<div class="block-container">
+		<div class="block-body">
+			<div class="block-row">
+				<p>{{ phrase('sylphian_link_warning_explain') }}</p>
+				<ul class="listPlain">
+					<li>
+						<xf:fa icon="fa-globe" class="u-muted" />
+						<dl class="pairs pairs--inline">
+							<dt>{{ phrase('sylphian_link_warning_site') }}</dt>
+							<dd><strong>{$host}</strong></dd>
+						</dl>
+					</li>
+					<li>
+						<xf:fa icon="fa-link" class="u-muted" />
+						<dl class="pairs pairs--inline">
+							<dt>{{ phrase('sylphian_link_warning_link') }}</dt>
+							<dd class="u-ltr">{$url}</dd>
+						</dl>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div class="block-footer u-alignCenter">
+			<xf:if is="$isOverlay">
+				<xf:button class="js-overlayClose">{{ phrase('cancel') }}</xf:button>
+			<xf:else />
+				<xf:button href="{{ link('index') }}">{{ phrase('cancel') }}</xf:button>
+			</xf:if>
+			<xf:button href="{$url}" class="button--primary js-overlayClose" target="_blank" rel="nofollow ugc noopener noreferrer">
+				{{ phrase('sylphian_link_warning_continue') }}
+			</xf:button>
+		</div>
+	</div>
+</div>

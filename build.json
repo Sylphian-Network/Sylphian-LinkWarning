@@ -1,0 +1,8 @@
+{
+  "additional_files": [
+    "js/sylphian/linkwarning"
+  ],
+  "minify": [
+    "js/sylphian/linkwarning/link-warning.js"
+  ]
+}

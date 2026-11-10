@@ -1,0 +1,11 @@
+{
+    "route_type": "public",
+    "route_prefix": "leave-site",
+    "sub_name": "",
+    "format": "",
+    "build_class": "",
+    "build_method": "",
+    "controller": "Sylphian\\LinkWarning\\Pub\\Controller\\LeaveSite",
+    "context": "",
+    "action_prefix": ""
+}

@@ -1,0 +1,6 @@
+<xf:if is="$xf.options.slwEnabled AND !$xf.visitor.isMemberOf($xf.options.slwBypassGroups)">
+	<xf:js src="sylphian/linkwarning/link-warning.js" min="1" addon="Sylphian/LinkWarning" />
+	<div hidden data-xf-init="sylphian-link-warning"
+		data-url="{{ link('leave-site') }}"
+		data-trusted="{$xf.options.slwTrustedDomains}"></div>
+</xf:if>

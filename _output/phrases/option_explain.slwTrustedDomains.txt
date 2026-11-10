@@ -1,0 +1,1 @@
+Links to these domains open without a warning. Enter one domain per line, for example youtube.com. Subdomains are included.

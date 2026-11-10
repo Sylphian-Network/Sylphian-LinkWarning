@@ -1,0 +1,11 @@
+{
+    "slwBypassGroups.json": {
+        "hash": "2dbdb2c569b3b09adf2b48ba0a94f890"
+    },
+    "slwEnabled.json": {
+        "hash": "579c489119b8f31a3d47f319d4140af2"
+    },
+    "slwTrustedDomains.json": {
+        "hash": "81262890b8f3ac846df15af3393ebeb8"
+    }
+}
